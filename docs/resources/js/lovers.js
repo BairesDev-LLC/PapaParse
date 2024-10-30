@@ -126,5 +126,11 @@ var peopleLovePapa = [
 		name: "HelloData",
 		description: "Automatic rent surveys with real-time data on over 25M multifamily units nationwide, direct from property websites.",
 		quote: "Papa Parse makes bulk data imports a breeze! It's helped us easily onboard our largest customers. It's robust and a true game-changer."
+	},
+	{
+		link: "https://bairesdev.com/",
+		name: "BairesDev",
+		description: "providing top-tier software outsourcing and tech solutions across multiple industries.",
+		quote: "Papa Parse has streamlined our data handling processes, making CSV imports efficient and hassle-free for our dev teams. It’s been a game-changer in our toolkit for building scalable, high-performance applications!"
 	}
 ];
